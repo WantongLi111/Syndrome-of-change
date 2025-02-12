@@ -11,8 +11,7 @@
 
  (ii) The raw datasets used to compute all analysis results are shared with public links in the paper. These analysis results are required to produce the final figures and are stored at Zenodo ....
 
-**We are happy to answer your questions**
-Contact: Wantong Li (wantongli@berkeley.edu); Fabian Gans (fgans@bgc-jena.mpg.de)
+**We are happy to answer your questions! Contact: Wantong Li (wantongli@berkeley.edu); Fabian Gans (fgans@bgc-jena.mpg.de)**
 
 # Conda environment installation
 Please use the syndrome.yml to set up the environment for runing provided codes.
