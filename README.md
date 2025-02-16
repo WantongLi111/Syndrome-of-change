@@ -9,7 +9,7 @@
  (iii) example_syndrome.ipynb draws some figures to illustrate user cases, such as global syndrome identification, extreme detection, etc.
 
 # Note:
- (i) We will make a repository of data at Zenodo Li, W. (2025). Data for Diagnosing Syndromes of Biosphere-Atmosphere-Socioeconomic Change [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14876723, including second-level data which can be used to reproduce all analyses described above;
+ (i) If you need to run the codes, please download the data.zip firest. Due to the size of data is large, we will make a repository of data at Zenodo Li, W. (2025). Data for Diagnosing Syndromes of Biosphere-Atmosphere-Socioeconomic Change [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14876723, which includes second-level data which can be used to reproduce all analyses described above;
  
  (ii) The raw datasets used to compute all analysis results are shared with public links in the paper.
 
