@@ -20,3 +20,4 @@ Please use the syndrome.yml to set up the environment for runing provided codes.
 The Linux command for environment installation: conda env create -f syndrome.yml
 
 # References
+Chapman et al. CCA-Zoo: A collection of Regularized, Deep Learning based, Kernel, and Probabilistic CCA methods in a scikit-learn style framework. Journal of Open Source Software, 6(68), 3823 (2021).![image](https://github.com/user-attachments/assets/29a00ef6-8dfd-413d-a2ce-36a4fd11f985)
