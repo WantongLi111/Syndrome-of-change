@@ -9,7 +9,7 @@
  (iii) example_syndrome.ipynb draws some figures to illustrate user cases, such as global syndrome identification, extreme detection, etc.
 
 # Note:
- (i) If you need to run the codes, please download the data.zip firest. Due to the large size of data, we make a repository of data at Zenodo Li, W. (2025). Data for Diagnosing Syndromes of Biosphere-Atmosphere-Socioeconomic Change [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14876723, which includes second-level data which can be used to reproduce all analyses described above;
+ (i) If you need to run the codes, please download the data.zip first. Due to the large size of data, we make a repository of data at Zenodo Li, W. (2025). Data for Diagnosing Syndromes of Biosphere-Atmosphere-Socioeconomic Change [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14876723, which includes second-level data which can be used to reproduce all analyses described above;
  
  (ii) The raw datasets used to compute all analysis results are shared with public links in the paper.
 
@@ -18,6 +18,3 @@
 # Conda environment installation
 Please use the syndrome.yml to set up the environment for runing provided codes.
 The Linux command for environment installation: conda env create -f syndrome.yml
-
-# References
-Chapman et al. CCA-Zoo: A collection of Regularized, Deep Learning based, Kernel, and Probabilistic CCA methods in a scikit-learn style framework. Journal of Open Source Software, 6(68), 3823 (2021).
